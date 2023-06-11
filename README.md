@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying in Chiang Rai.
+- 🌱 I’m currently learning NEXT.JS , Svelte
+
+#Languages and tools
+
+**Languages :** PHP , Javascript , Node.js , React , Next.js , Json , C++ , Python
+
+**IDE :** Visual Studio Code , NotePad , NotePad++ , Fleet
+
 <!--
 **Steper158X/Steper158X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
