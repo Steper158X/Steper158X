@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently studying in Chiang Rai.
 - 🌱 I’m currently learning NEXT.JS , Svelte
 
-#Languages and tools
+# Languages and tools
 
 **Languages :** PHP , Javascript , Node.js , React , Next.js , Json , C++ , Python
 
