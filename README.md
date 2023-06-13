@@ -3,9 +3,12 @@
 - 🔭 I’m currently studying in Chiang Rai.
 - 🌱 I’m currently learning NEXT.JS , Svelte
 
+### Contact Me
+- apirath12321@gmail.com
+
 # Languages and tools
 
-**Languages :** PHP , Javascript , Node.js , React , Next.js , Json , C++ , Python
+**Languages :** PHP , Javascript , Node.js , React , Next.js , Json , C++ , Python , HTML5 , CSS3
 
 **IDE :** Visual Studio Code , NotePad , NotePad++ , Fleet
 
