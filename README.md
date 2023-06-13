@@ -3,8 +3,8 @@
 - 🔭 I’m currently studying in Chiang Rai.
 - 🌱 I’m currently learning NEXT.JS , Svelte
 
-### Contact Me
-- apirath12321@gmail.com
+### Follow Me
+- [Youtube](https://www.youtube.com/@steper158x)
 
 # Languages and tools
 
