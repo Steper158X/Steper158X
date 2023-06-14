@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Steper158X&color=green)
+
 - 🔭 I’m currently studying in Chiang Rai.
 - 🌱 I’m currently learning NEXT.JS , Svelte
 
