@@ -8,10 +8,16 @@
 
 # Languages and tools
 
-**Languages :** PHP , Javascript , Node.js , React , Next.js , Json , C++ , Python , HTML5 , CSS3
-
 **IDE :** Visual Studio Code , NotePad , NotePad++ , Fleet
 
+**Core :** C++ , git , Javascript , Typescript , php , Python
+
+**FRONTEND :** HTML5 , React , Next.JS , JQuery , Tailwind , bootstrap 5
+
+**BACKEND AND DATABASE :** Node.JS , Express , MySQL
+
+**Software :** PhotoShop , After Effect , Premiere Pro , Figma , Davinci Resolve Studio
+                    
 <!--
 **Steper158X/Steper158X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
