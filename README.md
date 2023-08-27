@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Steper158X&color=green)
 
-- 🔭 I’m currently studying in Chiang Rai.
+- 🔭 I’m currently studying in Thailand.
 - 🌱 I’m currently learning NEXT.JS , Svelte
 
 ### Follow Me
