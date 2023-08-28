@@ -14,9 +14,9 @@
 
 **Core :** C++ , git , Javascript , Typescript , php , Python
 
-**FRONTEND :** HTML5 , React , Next.JS , JQuery , Tailwind , bootstrap 5
+**FRONTEND :** HTML5 , CSS3 , Javascript , React , Next.JS , JQuery , Tailwind , bootstrap 5
 
-**BACKEND AND DATABASE :** Node.JS , Express , MySQL
+**BACKEND AND DATABASE :** Node.JS , Express , MySQL , Laravel
 
 **Software :** PhotoShop , After Effect , Premiere Pro , Figma , Davinci Resolve Studio
                     
