@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Steper158X&color=green)
 
 - 🔭 I’m currently studying in Thailand.
-- 🌱 I’m currently learning NEXT.JS , Svelte
+- 🌱 I’m currently learning Svelte
 
 ### Follow Me
 - [Youtube](https://www.youtube.com/@steper158x)
@@ -14,11 +14,11 @@
 
 **Core :** C++ , git , Javascript , Typescript , php , Python
 
-**FRONTEND :** HTML5 , CSS3 , Javascript , React , Next.JS , JQuery , Tailwind , bootstrap 5
+**FRONTEND :** HTML5 , CSS3 , Javascript , React , Next.JS , JQuery , Tailwind , bootstrap 5 , Astro
 
-**BACKEND AND DATABASE :** Node.JS , Express , MySQL , Laravel
+**BACKEND AND DATABASE :** Node.JS , Express , MySQL , Laravel , prisma , postgresql
 
-**Software :** PhotoShop , After Effect , Premiere Pro , Figma , Davinci Resolve Studio
+**Software :** PhotoShop , After Effect , Premiere Pro , Figma , Davinci Resolve Studio , Postman , insomnia
                     
 <!--
 **Steper158X/Steper158X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
