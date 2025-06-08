@@ -8,29 +8,38 @@
 ### Follow Me
 - [Youtube](https://www.youtube.com/@steper158x)
 
-# Languages and tools
+## 🧠 Tech Stack
 
-**IDE :** Visual Studio Code , NotePad , NotePad++ , Fleet
+### 👨‍💻 Languages & Core Tools
+- **Languages**: C++, JavaScript, TypeScript, PHP, Python
+- **Version Control**: Git
 
-**Core :** C++ , git , Javascript , Typescript , php , Python
+### 🛠️ IDEs & Editors
+- Visual Studio Code  
+- NotePad / NotePad++  
+- JetBrains Fleet  
 
-**FRONTEND :** HTML5 , CSS3 , Javascript , React , Next.JS , JQuery , Tailwind , bootstrap 5 , Astro
+---
 
-**BACKEND AND DATABASE :** Node.JS , Express , MySQL , Laravel , prisma , postgresql
+## 🌐 Frontend Development
+- **Web Languages**: HTML5, CSS3, SCSS, JavaScript  
+- **Frameworks & Libraries**: React, Next.js, jQuery, Astro  
+- **Styling Tools**: Tailwind CSS, Bootstrap 5  
+- **Build Tools**: Vite
 
-**Software :** PhotoShop , After Effect , Premiere Pro , Figma , Davinci Resolve Studio , Postman , insomnia
-                    
-<!--
-**Steper158X/Steper158X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Backend Development & Databases
+- **Runtime & Frameworks**: Node.js, Bun, Express, Laravel (PHP)  
+- **Databases**: MySQL, PostgreSQL  
+- **ORM / Query Builder**: Prisma, Eloquent (Laravel ORM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎨 Software & Utilities
+- **Design & Editing**: Photoshop, After Effects, Premiere Pro, Figma, DaVinci Resolve Studio  
+- **API Testing**: Postman, Insomnia  
+
+---
+
+📫 Feel free to connect or check out my repositories!
